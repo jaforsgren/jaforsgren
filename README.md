@@ -1,9 +1,9 @@
-# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Howdy! I am <a href="https://github.com/jaforsgren">jaforsgren</a>
+# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Howdy! I am <a href="https://github.com/jaforsgren">Johan</a>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 ```js
-CONST JOHAN = {
+Const JOHAN = {
   backend: ["Python", "Nodejs", "Go"],
   frontend: ["HTML", "Javascript", "React", "CSS"],
   database: ["Postgresql", "MongoDB", "mySQL", "Redis"],
