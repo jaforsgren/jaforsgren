@@ -6,11 +6,9 @@
 
 ```js
 Const JOHAN = {
-  backend: ["Python", "Nodejs", "Go"],
-  frontend: ["HTML", "Javascript", "React", "CSS"],
-  database: ["Postgresql", "MongoDB", "mySQL", "Redis"],
-  "cloud-server": ["AWS", "Gcloud", "Azure"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  backend: ["Cooking", "Reading Romance Novels", "Playing Soccer"],
+  frontend: ["Working Out", "Petting Guinea Pigs", "Arguing About Database Design", "Minecraft"],
+  architecture: ["A General Lack of Eye-Hand-Coordination", "Being Wrong"],
 }
 ```
 
