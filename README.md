@@ -1,11 +1,6 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> <h1>Howdy! I am <a href="https://github.com/jaforsgren">jaforsgren</a></h1>
 </h1>
 
-### 📬 Find me at
-[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johanforsgren/)
-[Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.a.forsgren@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-
-
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 ```js
