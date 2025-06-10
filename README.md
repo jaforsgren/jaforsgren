@@ -1,5 +1,4 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> <h1>Howdy! I am <a href="https://github.com/jaforsgren">jaforsgren</a></h1>
-</h1>
+# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Howdy! I am <a href="https://github.com/jaforsgren">jaforsgren</a>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
